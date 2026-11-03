@@ -41,7 +41,7 @@ My goal is to continuously learn, gain practical experience, collaborate with ta
 
 - **LinkedIn:** [Hamzah Tareq](https://www.linkedin.com/in/hamzah-al-qudaimy-641116333/)
 - **GitHub:** https://github.com/HAMZAHT-904
-- **Portfolio:** (https://hamzah-tareq-al-qudaimi-portfolio.ai.studio/#work
+- **Portfolio:** https://hamzah-tareq-al-qudaimi-portfolio.ai.studio/#work
 
 )
 
